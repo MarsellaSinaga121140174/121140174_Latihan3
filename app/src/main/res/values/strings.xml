@@ -1,0 +1,11 @@
+<resources>
+        <string name="app_name">Latihan2</string>
+        <!-- fragment_example.xml strings -->
+        <string name="fragment_title">Custom Dialog</string>
+        <string name="fragment_button_text">Close</string>
+
+        <!-- dialog_custom.xml strings -->
+        <string name="dialog_message">Hello, View Binding!</string>
+        <string name="dialog_button_text">Click Me</string>
+
+</resources>
